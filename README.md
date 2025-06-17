@@ -1,6 +1,6 @@
 # ispace
 
-ispace is a Python-based tool for extracting telemetry data from Firefly Aerospace's landing video. It uses OCR to parse telemetry data such as velocity, altitude, and time from video streams or local files. The extracted data is processed, interpolated, and visualized for analysis. Similar repo by [fireflyXtract](https://github.com/chandrabhraman/fireflyxtract/tree/main)
+ispaceXtract is a Python-based tool for extracting telemetry data from ispace's landing video. It uses OCR to parse telemetry data such as velocity, altitude, and time from video streams or local files. The extracted data is processed, interpolated, and visualized for analysis. Similar repo as [fireflyXtract](https://github.com/chandrabhraman/fireflyxtract/tree/main)
 
 ![Alt Text](capture_compressed.gif)
 
