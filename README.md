@@ -43,7 +43,7 @@ pip install -r [requirements.txt]
 ```
 
 ### Usage
-To extract telemetry data, run the get_telemetry_firefly.py script with the following arguments:
+To extract telemetry data, run the get_telemetry_ispace.py script with the following arguments:
 
 ```bash
 python3 [get_telemetry_ispace.py/get_telemetry_ispace_second_attempt.py] <video_url> <start_time> <end_time> <bbox_time> <bbox_vel> <bbox_alt> <bbox_alt_units> [--stream_quality <quality>] [--flight_data_path <path>]
